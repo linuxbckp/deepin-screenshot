@@ -8,3 +8,5 @@ sudo dnf install cmake\
  qt5-qttools-devel\
  qt5-qttools-static\
  dtkwm-devel\
+ xcb-util-devel\
+ 
