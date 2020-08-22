@@ -7,5 +7,5 @@ ts_list=(`ls translations/*.ts`)
 for ts in "${ts_list[@]}"
 do
     printf "\nprocess ${ts}\n"
-    lrelease "${ts}"
+    lrelease-qt5 "${ts}"
 done

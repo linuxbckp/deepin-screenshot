@@ -1,4 +1,6 @@
 # Deepin screenshot
+## COPYRIGHT (c) 2017,2018 Deepin Technology Co., Ltd.
+## COPYRIGHT (c) 2020 LINUXBCKP
 
 ## New Update
 
