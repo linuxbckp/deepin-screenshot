@@ -1,5 +1,9 @@
 # Deepin screenshot
 
+## New Update
+
+Build Deepin-Screenshot On Fedora
+
 ## Description
 
 This is a default screenshot app for Linux Deepin.
